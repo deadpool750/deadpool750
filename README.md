@@ -10,9 +10,8 @@ I'm a student at **Wrocław University of Science and Technology**, studying **M
 * 🎮 Exploring **Game Development** and working on projects in **Unity**
 * 🧠 Interested in **medical imaging, bioinformatics and computational biology**
 * 🦾 Interested in **biomedical engineering, rehabilitation technologies and biomimicry**
-* 🌊 Fascinated by **marine biology, algae and biotechnology**
+* 🌊 Fascinated by **eyetracking and biotechnology**
 * 🇯🇵 Currently learning **Japanese**
-* 🇪🇸 Continuing to learn **Spanish**
 
 ## What I'm Interested In
 
